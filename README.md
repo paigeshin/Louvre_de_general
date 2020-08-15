@@ -24,3 +24,5 @@
 [네트워크 API Structure](https://www.notion.so/API-Structure-7eb0dea4be4b43edb2d472ffbdf239ee)
 
 [대규모 데이터베이스](https://www.notion.so/ffc81628ce5d4ac6821b9edf3974a8d8)
+
+[Project Tips](https://www.notion.so/Project-Tips-a57d645153034ebb830fe64f9b1046d8)
