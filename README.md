@@ -26,3 +26,13 @@
 [대규모 데이터베이스](https://www.notion.so/ffc81628ce5d4ac6821b9edf3974a8d8)
 
 [Project Tips](https://www.notion.so/Project-Tips-a57d645153034ebb830fe64f9b1046d8)
+
+# Insight & Idea
+
+[Socket Chatting Insight](https://www.notion.so/Socket-Chatting-Insight-8f1804be6a1147bdbbd8e385beca1ee4)
+
+[Web Crawling & Web Scraping Insight](https://www.notion.so/Web-Crawling-Web-Scraping-Insight-50180e866a4e4deab9130b106ecd5ad5)
+
+# Shell
+
+[ZSH](https://www.notion.so/ZSH-581198dbe71748399dfaa4a16b891f6c)
