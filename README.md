@@ -36,3 +36,11 @@
 # Shell
 
 [ZSH](https://www.notion.so/ZSH-581198dbe71748399dfaa4a16b891f6c)
+
+# Articles to read
+
+[When to use sql, and nosql?](https://www.notion.so/When-to-use-sql-and-nosql-d30576d3ff97461bbd0b85580685b355)
+
+[Cassandra vs MongoDB vs Neo4j](https://www.notion.so/Cassandra-vs-MongoDB-vs-Neo4j-a93c60b607ef44348b8bbca5c202d38d)
+
+[Facebook's Social Graph, Neo4j show rising use of graph database](https://www.notion.so/Facebook-s-Social-Graph-Neo4j-show-rising-use-of-graph-database-f3764ae7fd8041f1aaa4056c8964a6cf)
