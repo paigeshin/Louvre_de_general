@@ -52,3 +52,9 @@
 [Data Schemas & Data Modelling, on louvre de cs and node](https://www.notion.so/Data-Schemas-Data-Modelling-on-louvre-de-cs-and-node-b63268ef850b4d37baf89dff59d1f988)
 
 [NOSQL Relations Real Life Examples, on node and cs](https://www.notion.so/NOSQL-Relations-Real-Life-Examples-on-node-and-cs-18c080c29ffb4d75a53a53f6f513a7df)
+
+# ETC
+
+[Cubic Bezier](https://www.notion.so/Cubic-Bezier-4d841cd328c54caa9f42768584adf337)
+
+[README MARKDOWN](https://guides.github.com/features/mastering-markdown/)
