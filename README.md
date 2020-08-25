@@ -58,3 +58,11 @@
 [Cubic Bezier](https://www.notion.so/Cubic-Bezier-4d841cd328c54caa9f42768584adf337)
 
 [README MARKDOWN](https://guides.github.com/features/mastering-markdown/)
+
+# Python & Scraper
+
+[Intro to WebScraping & Scrapy](https://www.notion.so/Intro-to-WebScraping-Scrapy-f6de1331a69a4292aa7659e60d0eadb5)
+
+[Setting up Scrapy the Development Environment](https://www.notion.so/Setting-up-Scrapy-the-Development-Environment-30453dce853846a5ad5c3dbdd968a271)
+
+[Scrapy Fundamentals Part - 1](https://www.notion.so/Scrapy-Fundamentals-Part-1-7a9dff8da3cd4401b9b18c3d998893e4)
