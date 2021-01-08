@@ -80,3 +80,8 @@
 [CSS+Selectors+for+web+scraping+cheatsheet%28modern%29.pdf](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/76a429cc-27bc-43e4-9448-c385608d02c7/CSSSelectorsforwebscrapingcheatsheet28modern29.pdf)
 
 [XPath+for+web+scraping+cheatsheet%28modern%29.pdf](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/501c2c70-d153-4cfa-b933-1113fd19134c/XPathforwebscrapingcheatsheet28modern29.pdf)
+
+
+# Git
+
+[Git Get back to previous verision](https://www.notion.so/Git-crash-course-b7104c100e0c4363847a3b5e3be5a5ab)
