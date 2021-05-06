@@ -85,3 +85,14 @@
 # Git
 
 [Git Get back to previous verision](https://www.notion.so/Git-crash-course-b7104c100e0c4363847a3b5e3be5a5ab)
+
+# Python
+
+[Python through Jupyter (Anaconda)](https://www.notion.so/Python-through-Jupyter-Anaconda-c9a22dcc67a0498da03dae7f495cbf3b)
+
+[Python](https://www.notion.so/Python-82d1fb09b4cb4d7ab5c844783b1afabb)
+
+
+# Source Repository
+
+[Github with bigbucket](https://www.notion.so/Github-with-bigbucket-7669d0a2a2ef4a64b9b9e009a9c9e4ce)
