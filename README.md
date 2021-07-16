@@ -1,5 +1,9 @@
 # Louvre_de_general
 
+# SEO
+
+[SEO 메타태그 최적화하기](https://www.notion.so/SEO-bb358d86e8194662bae18bc910ebbb96)
+
 # Ide
 
 ## xCode
@@ -86,6 +90,8 @@
 
 [Git Get back to previous verision](https://www.notion.so/Git-crash-course-b7104c100e0c4363847a3b5e3be5a5ab)
 
+[ReadMe GIF  넣는법](https://www.notion.so/ReadMe-GIF-fdc552dd52cc4eee82b469a4153cb046)
+
 # Python
 
 [Python through Jupyter (Anaconda)](https://www.notion.so/Python-through-Jupyter-Anaconda-c9a22dcc67a0498da03dae7f495cbf3b)
@@ -93,6 +99,18 @@
 [Python](https://www.notion.so/Python-82d1fb09b4cb4d7ab5c844783b1afabb)
 
 
-# Source Repository
+# Bitbucket
 
 [Github with bigbucket](https://www.notion.so/Github-with-bigbucket-7669d0a2a2ef4a64b9b9e009a9c9e4ce)
+
+[Github with bigbucket](https://www.notion.so/Github-with-bigbucket-7669d0a2a2ef4a64b9b9e009a9c9e4ce)
+
+[ReadMe GIF  넣는법](https://www.notion.so/ReadMe-GIF-fdc552dd52cc4eee82b469a4153cb046)
+
+# Design Pattern 
+
+[Why MVVM?](https://www.notion.so/Why-MVVM-1a264b7cfc0e4464a6196ef033358e6a)
+
+# MAC
+
+[맥북 내장스피커로 녹화하기](https://www.notion.so/0587d46e2b144adc82b4c2b747943e9f)
