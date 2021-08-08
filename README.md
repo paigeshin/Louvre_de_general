@@ -92,6 +92,12 @@
 
 [ReadMe GIF  넣는법](https://www.notion.so/ReadMe-GIF-fdc552dd52cc4eee82b469a4153cb046)
 
+[Check all commits ](https://www.notion.so/Check-all-commits-bf72ddcb031d4231a1c5092fb7eb4a3a)
+
+[Revert Commit ](https://www.notion.so/Revert-Commit-0b01279f38184558bfebe74974103e85)
+
+[Undo code](https://www.notion.so/Undo-code-f5d46aa6d61f4d7092a8b823e8886c71)
+
 # Python
 
 [Python through Jupyter (Anaconda)](https://www.notion.so/Python-through-Jupyter-Anaconda-c9a22dcc67a0498da03dae7f495cbf3b)
