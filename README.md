@@ -37,6 +37,12 @@
 
 [Web Crawling & Web Scraping Insight](https://www.notion.so/Web-Crawling-Web-Scraping-Insight-50180e866a4e4deab9130b106ecd5ad5)
 
+# Brew
+
+[Homebrew](https://www.notion.so/Homebrew-5609124fe96b42b28ddc68c20ac1438b)
+
+[brew on ARM64](https://www.notion.so/brew-on-ARM64-b55db5ec9b60469a8abdd2b0f2402737)
+
 # Shell
 
 [ZSH](https://www.notion.so/ZSH-581198dbe71748399dfaa4a16b891f6c)
