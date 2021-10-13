@@ -31,6 +31,10 @@
 
 [Project Tips](https://www.notion.so/Project-Tips-a57d645153034ebb830fe64f9b1046d8)
 
+[32 bit vs 64bit](https://www.notion.so/32-bit-vs-64bit-7d1c759eed3c496ebbc88283ec731ded)
+
+[What is a Shell?](https://www.notion.so/What-is-a-Shell-aa562cea908b45dc8eacabddacbb6f72)
+
 # Insight & Idea
 
 [Socket Chatting Insight](https://www.notion.so/Socket-Chatting-Insight-8f1804be6a1147bdbbd8e385beca1ee4)
@@ -126,3 +130,5 @@
 # MAC
 
 [맥북 내장스피커로 녹화하기](https://www.notion.so/0587d46e2b144adc82b4c2b747943e9f)
+
+
