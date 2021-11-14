@@ -108,6 +108,8 @@
 
 [Undo code](https://www.notion.so/Undo-code-f5d46aa6d61f4d7092a8b823e8886c71)
 
+[.gitignore](https://www.notion.so/gitignore-efca8eab4bf34a36b30b09393ac60c6c)
+
 # Python
 
 [Python through Jupyter (Anaconda)](https://www.notion.so/Python-through-Jupyter-Anaconda-c9a22dcc67a0498da03dae7f495cbf3b)
