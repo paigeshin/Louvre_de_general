@@ -133,4 +133,8 @@
 
 [맥북 내장스피커로 녹화하기](https://www.notion.so/0587d46e2b144adc82b4c2b747943e9f)
 
+# Security
 
+[https://m.news.nate.com/view/20211211n08225?list=edit&cate=tot](https://m.news.nate.com/view/20211211n08225?list=edit&cate=tot)
+
+[https://www.krcert.or.kr/data/secNoticeView.do?bulletin_writing_sequence=36389](https://www.krcert.or.kr/data/secNoticeView.do?bulletin_writing_sequence=36389)
