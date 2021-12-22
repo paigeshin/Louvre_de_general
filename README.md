@@ -110,6 +110,8 @@
 
 [.gitignore](https://www.notion.so/gitignore-efca8eab4bf34a36b30b09393ac60c6c)
 
+https://stackoverflow.com/questions/35115585/remove-files-completely-from-git-repository-along-with-its-history
+
 # Python
 
 [Python through Jupyter (Anaconda)](https://www.notion.so/Python-through-Jupyter-Anaconda-c9a22dcc67a0498da03dae7f495cbf3b)
