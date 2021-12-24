@@ -102,6 +102,8 @@ https://github.com/paigeshin/Software-Architecture-Cases
 
 # Git
 
+[Delete all files from history, git ](https://www.notion.so/Delete-all-files-from-history-git-59517a90683641e3b9fbc10579ad3eb2)
+
 [Git Get back to previous verision](https://www.notion.so/Git-crash-course-b7104c100e0c4363847a3b5e3be5a5ab)
 
 [ReadMe GIF  넣는법](https://www.notion.so/ReadMe-GIF-fdc552dd52cc4eee82b469a4153cb046)
@@ -144,3 +146,13 @@ https://stackoverflow.com/questions/35115585/remove-files-completely-from-git-re
 [https://m.news.nate.com/view/20211211n08225?list=edit&cate=tot](https://m.news.nate.com/view/20211211n08225?list=edit&cate=tot)
 
 [https://www.krcert.or.kr/data/secNoticeView.do?bulletin_writing_sequence=36389](https://www.krcert.or.kr/data/secNoticeView.do?bulletin_writing_sequence=36389)
+
+# Growth
+
+[코드 읽기](https://www.notion.so/54fe2fc70c0343c6a388818552e02aea)
+
+[오픈소스로 성장하는 구체적인 방법](https://www.notion.so/b575b45b5fe340afb614f9a106979967)
+
+[How to read other people’s code](https://www.notion.so/How-to-read-other-people-s-code-19ac5b2a9916480a86a60bd08c966240)
+
+[오픈소스 라이센스](https://www.youtube.com/watch?v=Z_fT6wX2DRk)
