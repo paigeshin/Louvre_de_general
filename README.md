@@ -51,6 +51,10 @@
 
 [ZSH](https://www.notion.so/ZSH-581198dbe71748399dfaa4a16b891f6c)
 
+# Software Architecture
+
+https://github.com/paigeshin/Software-Architecture-Cases
+
 # Articles to read
 
 [When to use sql, and nosql?](https://www.notion.so/When-to-use-sql-and-nosql-d30576d3ff97461bbd0b85580685b355)
